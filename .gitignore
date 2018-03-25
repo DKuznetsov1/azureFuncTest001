@@ -270,3 +270,4 @@ __pycache__/
 .vs/
 
 /MyFunctionApp1/.vs
+/MyFunctionApp1/MyFunctionApp1/Properties/PublishProfiles

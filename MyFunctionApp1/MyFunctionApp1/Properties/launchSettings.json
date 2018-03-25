@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyFunctionApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "%AppData%\\npm\\node_modules\\azure-functions-core-tools\\bin\\func.dll host start --pause-on-error"
+    }
+  }
+}
